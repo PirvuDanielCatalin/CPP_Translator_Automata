@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# IDEs
+.vscode
+.idea
+.vs
+
+# Google Drive
+desktop.ini
